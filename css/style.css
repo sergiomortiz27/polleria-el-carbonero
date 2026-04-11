@@ -216,4 +216,5 @@ nav a:hover { color: var(--accent); }
     .hero-content p { font-size: 1.1rem; }
     .contact-flex, .grid-reviews { grid-template-columns: 1fr; }
     .bar-flex { font-size: 0.75rem; }
+    .bar-phone { font-size: 0.75rem; text-align: right;}
 }
