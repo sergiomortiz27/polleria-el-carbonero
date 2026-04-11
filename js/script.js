@@ -2,8 +2,8 @@
 window.onscroll = function() {
     const navbar = document.getElementById("navbar");
     if (window.scrollY > 80) {
-        //navbar.style.background = "rgba(255, 255, 255, 0.42)"; // Un blanco casi puro
-        navbar.style.backgroundImage ="url('img//pinstriped-suit.png')";
+        navbar.style.background = "rgba(255, 255, 255, 0.42)"; // Un blanco casi puro
+        //navbar.style.backgroundImage ="url('img//pinstriped-suit.png')";
         navbar.style.boxShadow = "0 4px 15px rgba(0, 0, 0, 0.5)";
     } else {
         navbar.style.background = rgb(252, 252, 252); // Blanco Puro
